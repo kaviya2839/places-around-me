@@ -167,18 +167,25 @@ Next start the server from the projects main directory using python3 manage.py r
 ```
 ## Output:
 ### map
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/4404bee0-3305-4a36-9ab8-608ed681dcba)
 
 ### sec
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/ee3e910d-298f-46a4-83d5-7f330d27295f)
 
 ### sse
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/55f9dfa6-049f-425f-8368-428f36cfdd5d)
 
 ### simats
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/031193c4-c0b4-4ed6-bd43-2deb82dc592c)
 
 ### scon
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/d815d640-517c-41ef-9cd3-2fcc4b4c9ffe)
 
 ### sca
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/28bff658-30e3-4d64-a5e1-5ca88eb6d6f4)
 
 ### html validator
+![image](https://github.com/kaviya2839/places-around-me/assets/120553351/37baff67-07b3-4562-b920-1063b3663da4)
 
 ## Result:
 Hence a website has been developed to display details about the colleges around saveetha university.
